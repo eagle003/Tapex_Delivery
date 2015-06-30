@@ -1,0 +1,2 @@
+tic;
+g=g/tac
